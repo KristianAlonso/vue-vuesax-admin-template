@@ -1,0 +1,18 @@
+body {
+  background-color: #181b2b;
+}
+.theme-navbar {
+  background-color:#1c1f33!important; // '#1a1d2e',
+  color:#4779ad!important;
+  .is-active-item {
+    color:#1DB98D!important;
+    .vs-navbar-after {
+      background-color:#1DB98D!important;
+    }
+    a:hover {
+      .vs-navbar-after{
+        width: 100%;
+      }
+    }
+  }
+}
