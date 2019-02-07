@@ -1,4 +1,4 @@
-# Sample
+# vue-vuesax-admin-template
 
 ## Project setup
 ```
